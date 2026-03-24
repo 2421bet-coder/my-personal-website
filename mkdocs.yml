@@ -1,1 +1,12 @@
-site_name: My Docs
+site_name: 胜过任何活命
+site_url: https://2421bet-coder.github.io/my-personal-website/
+theme:
+  name: material
+  palette:
+    # 网站主题颜色（可修改，比如改成蓝色、绿色）
+    primary: blue  # 主色调（可选：red/blue/green/purple，直接改单词即可）
+  features:
+    - navigation.tabs  # 显示顶部导航栏
+    - navigation.sections  # 导航分栏
+nav:
+  - 首页: index.mdsite_name: My Docs
