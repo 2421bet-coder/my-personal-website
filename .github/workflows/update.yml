@@ -1,7 +1,7 @@
 name: 自动部署个人网站
 on:
   push:
-    branches: [ main ] # 只有推main分支才触发部署
+    branches: [ main ]
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -11,11 +11,10 @@ jobs:
       - name: 安装Python环境
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10' # 适配MkDocs，不用改
-      - name: 安装依赖（MkDocs+Material主题）
+          python-version: '3.10'
+      - name: 安装依赖
         run: |
           python -m pip install --upgrade pip
           pip install mkdocs mkdocs-material
       - name: 构建并部署
-        run: |
-          mkdocs gh-deploy --force
+        run: mkdocs gh-deploy --force
