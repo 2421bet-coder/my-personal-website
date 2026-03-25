@@ -1,29 +1,22 @@
-/* 引入本地字体文件：汇文明朝体 */
+/* 仅保留：汇文明朝体 基础配置 */
 @font-face {
   font-family: "汇文明朝体";
-  src: 
-    url("../fonts/汇文明朝体.woff") format("woff"), /* 优先用你转好的woff */
-    url("../fonts/汇文明朝体.otf") format("opentype"); /* 兜底用你原有的otf，双重保险 */
+  src: url("../fonts/汇文明朝体.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
-/* 全局正文应用汇文明朝体 */
+/* 仅应用字体，无任何样式修改 */
 body {
-  font-family: "汇文明朝体", "Noto Serif SC", "Source Han Serif SC", "SimSun", "宋体", serif !important;
-  font-size: 20px;
-  line-height: 1.9;
-  color: #333333;
+  font-family: "汇文明朝体", serif !important;
 }
 
-/* 标题也用汇文明朝体 */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "汇文明朝体", "Noto Serif SC", "Source Han Serif SC", serif !important;
+  font-family: "汇文明朝体", serif !important;
   font-weight: normal;
 }
 
-/* 代码块保持等宽字体，不影响代码显示 */
-code, pre, kbd {
-  font-family: "JetBrains Mono", "Consolas", "Monaco", monospace !important;
+code, pre {
+  font-family: monospace !important;
 }
