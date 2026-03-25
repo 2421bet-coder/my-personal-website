@@ -2,5 +2,10 @@ site_name: 胜过任何活命
 site_url: https://2421bet-coder.github.io/my-personal-website/
 theme:
   name: material
+
 nav:
   - 首页: index.md
+
+# 引入自定义 CSS 文件
+extra_css:
+  - css/custom.css
