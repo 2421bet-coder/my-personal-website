@@ -14,4 +14,4 @@
 
 [《覆冕之钉》](CrowningNail/)
 
-[《旧都：位于荒寂而平阔的沙地》](TheOld Capital/)
+[《旧都：位于荒寂而平阔的沙地》](OldCapital/)
