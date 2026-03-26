@@ -1,6 +1,2 @@
-\#Obsidian Inscription
 
-
-
-test
 
