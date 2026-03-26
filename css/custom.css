@@ -1,0 +1,22 @@
+/* 仅保留：汇文明朝体 基础配置 */
+@font-face {
+  font-family: "汇文明朝体";
+  src: url("../fonts/汇文明朝体.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 仅应用字体，无任何样式修改 */
+body {
+  font-family: "汇文明朝体", serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "汇文明朝体", serif !important;
+  font-weight: normal;
+}
+
+code, pre {
+  font-family: monospace !important;
+}
