@@ -15,3 +15,7 @@
 [《覆冕之钉》](CrowningNail/)
 
 [《旧都：位于荒寂而平阔的沙地》](OldCapital/)
+
+[《宝训集：关于百川的记述》](hundredrivers/)
+
+[《黑曜石铭文》](Obsidian/)
