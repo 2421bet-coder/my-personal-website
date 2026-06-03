@@ -16,10 +16,11 @@
 
 [《旧都：位于荒寂而平阔的沙地》](OldCapital/)
 
+[《变化之书·有龙》](Thebookofchange/)
+
+[《论棋术与淬火之心……》](OntheArtofChessandtheTemperedSpirit/)
+
 [《宝训集：关于百川的记述》](hundredrivers/)
 
 [《黑曜石铭文》](Obsidian/)
 
-[《变化之书·有龙》](Thebookofchange/)
-
-[《论棋术与淬火之心……》](OntheArtofChessandtheTemperedSpirit/)
