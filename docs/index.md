@@ -20,6 +20,8 @@
 
 [《论棋术与淬火之心……》](OntheArtofChessandtheTemperedSpirit/)
 
+[《或得复现抛却之物……》](Recoverwhathascastaside/)
+
 [《宝训集：关于百川的记述》](hundredrivers/)
 
 [《黑曜石铭文》](Obsidian/)
