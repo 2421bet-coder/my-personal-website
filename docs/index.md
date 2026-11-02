@@ -22,6 +22,8 @@
 
 [《或得复现抛却之物……》](Recoverwhathascastaside/)
 
+[《纯雪之辩》](TheControversieofPureSnow/)
+
 [《宝训集：关于百川的记述》](hundredrivers/)
 
 [《黑曜石铭文》](Obsidian/)
