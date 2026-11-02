@@ -1,6 +1,4 @@
-\#The Controversie of Pure Snow
+#The Controversie of Pure Snow
 
-
-
-\[26/11/2](26-11-2.md)
+[26/11/2](26-11-2.md)
 
